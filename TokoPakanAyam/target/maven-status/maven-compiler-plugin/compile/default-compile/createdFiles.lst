@@ -1,0 +1,5 @@
+Model\Karyawan.class
+Model\KaryawanParuhWaktu.class
+Controller\ManajemenGaji.class
+Model\KaryawanKontrak.class
+Main\TokoPakanAyam.class
